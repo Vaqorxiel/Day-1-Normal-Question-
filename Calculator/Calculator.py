@@ -11,4 +11,4 @@ while True:
         
     except:
         print("thats not math Try 5+5 or type quit")
-      #try and except and while tru is so OP
+      #try and except and while true is so OP
